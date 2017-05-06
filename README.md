@@ -1,6 +1,10 @@
 # Solutions to LeetCode problems.
 
-Solutions are written in C++ using C++11 syntax in Xcode 8.
+Solutions are:
+* Written in C++ using C++11 syntax in Xcode 8. Able to compile and execute.
+* Written in Python 2 using the LeetCode interface. Not able to execute as input is not
+included.
+
 All solutions have been accepted.
 
 ## License
